@@ -1,0 +1,802 @@
+[
+    {
+        "Product": "ТАФЕН НАЗАЛЬ спрей наз. (фл.) 50мкг/доза - 200доз N1",
+        "Rate": "AB",
+        "Balance": 4,
+        "Price": 374,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "ТЕЙМУРОВА паста (туба) 50г N1",
+        "Rate": "AB",
+        "Balance": 6,
+        "Price": 42,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "ШПРИЦ 1,0 инс U-100 N1",
+        "Rate": "BB",
+        "Balance": 117,
+        "Price": 12,
+        "ProductType": "Изделия медицинского назначения (ИМН)",
+        "ProductRxOTC": "TrG"
+    },
+    {
+        "Product": "АКТОВЕГИН табл. п.о. 200мг N50",
+        "Rate": "AP",
+        "Balance": 5,
+        "Price": 1649,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "НАТРИЯ ХЛОРИД р-р д/инф. (пласт.) 0.9% - 200мл N1",
+        "Rate": "AB",
+        "Balance": 37,
+        "Price": 30,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "ТРОМБО АСС табл. кшр. п.п.о. 50мг N100",
+        "Rate": "AB",
+        "Balance": 3,
+        "Price": 130,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "БИФИДУМБАКТЕРИН супп. ваг./рект. N10",
+        "Rate": "AB",
+        "Balance": 3,
+        "Price": 98,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "ЛИНКОМИЦИНА ГИДРОХЛОРИД р-р д/ин. (амп.) 30% - 1мл N10",
+        "Rate": "AB",
+        "Balance": 3,
+        "Price": 92,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "МИДОКАЛМ р-р для в/в и в/м введ. (амп.) 2.5мг/мл+100мг/мл - 1мл N5",
+        "Rate": "AB",
+        "Balance": 12,
+        "Price": 500,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "ОТИПАКС капли ушн. (фл.) 15мл N1 (16 г)",
+        "Rate": "AB",
+        "Balance": 3,
+        "Price": 423,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "НИМЕСАН табл. 100мг N20",
+        "Rate": "AB",
+        "Balance": 1,
+        "Price": 188,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "САЛИЦИЛОВО-ЦИНКОВАЯ ПАСТА (бан.) 25г N1",
+        "Rate": "AC",
+        "Balance": 1,
+        "Price": 19,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "МЕНОВАЗИН жидк. (фл. с распыл.) 50мл N1",
+        "Rate": "BB",
+        "Balance": 4,
+        "Price": 63,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "СИОФОР табл. п.п.о. 500мг N60",
+        "Rate": "BC",
+        "Balance": 3,
+        "Price": 223,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "ПОВЯЗКА Космопор E послеопер. стер. 15х8см N1",
+        "Rate": "AB",
+        "Balance": 6,
+        "Price": 28,
+        "ProductType": "Изделия медицинского назначения (ИМН)",
+        "ProductRxOTC": "TrG"
+    },
+    {
+        "Product": "ПУСТЫШКА латекс Ромашка-2 кольцо N1",
+        "Rate": "AB",
+        "Balance": 2,
+        "Price": 39,
+        "ProductType": "Предметы ухода за детьми",
+        "ProductRxOTC": "TrG"
+    },
+    {
+        "Product": "АЦЕКАРДОЛ табл. кшр. п.о. 100мг N30",
+        "Rate": "AB",
+        "Balance": 7,
+        "Price": 26.5,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "ПАРАЦЕТАМОЛ табл. 500мг N10",
+        "Rate": "BP",
+        "Balance": 901,
+        "Price": 12,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "ТЕКСАРЕД лиоф. д/р-ра д/ин. (фл.) 20мг - 2мл N1",
+        "Rate": "AP",
+        "Balance": 2,
+        "Price": 217,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "СПАЗГАН табл. N20",
+        "Rate": "AB",
+        "Balance": 3,
+        "Price": 134,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "КОМБИЛИПЕН р-р для в/м введ. (амп.) 2мл N10",
+        "Rate": "AB",
+        "Balance": 15,
+        "Price": 329,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "ПОЛИНАДИМ капли глазн. (фл.) 10мл N1",
+        "Rate": "AB",
+        "Balance": 2,
+        "Price": 59,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "ХЛОРГЕКСИДИН водный дез.ср-во р-р д/наружн. прим. (фл. пластик.) 0.05% - 100мл N1",
+        "Rate": "AB",
+        "Balance": 14,
+        "Price": 39,
+        "ProductType": "Дезинфицирующие средства",
+        "ProductRxOTC": "TrG"
+    },
+    {
+        "Product": "ФЛЮКОСТАТ капс. 150мг N2",
+        "Rate": "AB",
+        "Balance": 5,
+        "Price": 401,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "ТАНТУМ ВЕРДЕ спрей д/местн. прим. доз. (фл.) 30мл N1",
+        "Rate": "AB",
+        "Balance": 7,
+        "Price": 337,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "ПЕРЧАТКИ МЕДИЦИНСКИЕ стер. латекс р.7-8 (M) N2 (1пара)",
+        "Rate": "AB",
+        "Balance": 8,
+        "Price": 43,
+        "ProductType": "Изделия медицинского назначения (ИМН)",
+        "ProductRxOTC": "TrG"
+    },
+    {
+        "Product": "ШАПОЧКА однораз. нестер. Шарлотта спанбонд N1 белая",
+        "Rate": "AB",
+        "Balance": 29,
+        "Price": 7,
+        "ProductType": "Изделия медицинского назначения (ИМН)",
+        "ProductRxOTC": "TrG"
+    },
+    {
+        "Product": "ТЕМПАЛГИН табл. п.п.о. N20",
+        "Rate": "BB",
+        "Balance": 7,
+        "Price": 165,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "НАТРИЯ ХЛОРИД р-р д/ин. (буфус) 0.9% - 5мл N10 /СОЛ/",
+        "Rate": "AB",
+        "Balance": 21,
+        "Price": 140,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "ГЕКСОРАЛ аэроз. д/местн. прим. 0.2% - 40мл N1",
+        "Rate": "AB",
+        "Balance": 5,
+        "Price": 368,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "ПЕНЗИТАЛ ГАСТРО табл. п.о. N20",
+        "Rate": "BC",
+        "Balance": 4,
+        "Price": 62,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "СИГНИЦЕФ капли глазн. (фл.-кап.) 0.5% - 5мл N1",
+        "Rate": "BC",
+        "Balance": 5,
+        "Price": 193,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "РЕНИПРИЛ ГТ табл. 12.5мг+10мг N20",
+        "Rate": "BB",
+        "Balance": 2,
+        "Price": 89,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "ЭРГОФЕРОН табл. д/рассас. N20",
+        "Rate": "AP",
+        "Balance": 5,
+        "Price": 358,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "АКТОВЕГИН р-р д/ин. (амп.) 40мг/мл - 5мл N5",
+        "Rate": "AP",
+        "Balance": 4,
+        "Price": 654,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "НЕЙРОМУЛЬТИВИТ табл. п.о. N20",
+        "Rate": "BA",
+        "Balance": 2,
+        "Price": 331,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "РИНОСТОП капли наз. (фл.-кап.) 0.1% - 10мл N1",
+        "Rate": "AB",
+        "Balance": 37,
+        "Price": 34,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "НЕМОЗОЛ табл. п.п.о. 400мг N1",
+        "Rate": "AB",
+        "Balance": 3,
+        "Price": 190,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "ЦЕТРИН табл. п.п.о. 10мг N20",
+        "Rate": "AB",
+        "Balance": 13,
+        "Price": 169,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "АМЛОДИПИН табл. 10мг N30 /Озон/",
+        "Rate": "AB",
+        "Balance": 3,
+        "Price": 73,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "КОРВАЛОЛ табл. N20",
+        "Rate": "AB",
+        "Balance": 4,
+        "Price": 137,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "АСКОРБИНОВАЯ КИСЛОТА пор. (саше) 2.5г N1",
+        "Rate": "BB",
+        "Balance": 270,
+        "Price": 5,
+        "ProductType": "БАД",
+        "ProductRxOTC": "TrG"
+    },
+    {
+        "Product": "БЕРОДУАЛ р-р д/ингал. (фл.-кап.) 20мл N1",
+        "Rate": "AB",
+        "Balance": 12,
+        "Price": 298,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "АМБРОБЕНЕ сироп (фл.) 3мг/мл - 100мл N1",
+        "Rate": "AB",
+        "Balance": 4,
+        "Price": 121,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "КОРОНАЛ табл. п.п.о. 5мг N30",
+        "Rate": "AB",
+        "Balance": 2,
+        "Price": 114,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "РЕАМБЕРИН р-р д/инф. (фл.) 1.5% - 200мл N1",
+        "Rate": "BB",
+        "Balance": 3,
+        "Price": 201,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "ПЛАСТЫРЬ ФИКСИРУЮЩИЙ Верофарм ткан бел. 2х500см N1",
+        "Rate": "AB",
+        "Balance": 4,
+        "Price": 39,
+        "ProductType": "Изделия медицинского назначения (ИМН)",
+        "ProductRxOTC": "TrG"
+    },
+    {
+        "Product": "МИРАМИСТИН р-р д/местн. прим. (фл. с апплик.) 0.01% - 50мл N1",
+        "Rate": "AB",
+        "Balance": 2,
+        "Price": 217,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "МОЧЕПРИЕМНИК детский 0.2л N1",
+        "Rate": "AB",
+        "Balance": 28,
+        "Price": 15,
+        "ProductType": "Изделия медицинского назначения (ИМН)",
+        "ProductRxOTC": "TrG"
+    },
+    {
+        "Product": "СУПРАКС гран. д/сусп. внутр. (фл.) 100мг/5мл - 60мл N1",
+        "Rate": "BA",
+        "Balance": 3,
+        "Price": 552,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "ПЛАТКИ НОСОВЫЕ однораз. N10",
+        "Rate": "AB",
+        "Balance": 89,
+        "Price": 10,
+        "ProductType": "Предметы и средства личной гигиены",
+        "ProductRxOTC": "TrG"
+    },
+    {
+        "Product": "ТРОМБО АСС табл. кшр. п.п.о. 100мг N100",
+        "Rate": "AB",
+        "Balance": 5,
+        "Price": 150,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "ДИПРОСПАН сусп. д/ин. (амп.) 7мг/мл - 1мл N1",
+        "Rate": "AB",
+        "Balance": 11,
+        "Price": 470,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "ИНДАП капс. 2.5мг N30",
+        "Rate": "AB",
+        "Balance": 7,
+        "Price": 104,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "БЕТАЛОК ЗОК табл. замедл. высв. п.о. 25мг N14",
+        "Rate": "AB",
+        "Balance": 13,
+        "Price": 124,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "ЭУТИРОКС табл. 25мкг N100",
+        "Rate": "AB",
+        "Balance": 5,
+        "Price": 95,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "КАВИНТОН Форте табл. 10мг N30",
+        "Rate": "AB",
+        "Balance": 4,
+        "Price": 162,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "НЕКСТ табл. п.п.о. N10",
+        "Rate": "AB",
+        "Balance": 7,
+        "Price": 178,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "ШПРИЦ 20,0 3хкомп N1",
+        "Rate": "AB",
+        "Balance": 70,
+        "Price": 15,
+        "ProductType": "Изделия медицинского назначения (ИМН)",
+        "ProductRxOTC": "TrG"
+    },
+    {
+        "Product": "КАЛЬЦИЯ ГЛЮКОНАТ р-р д/ин. (амп.) 10% - 5мл N10",
+        "Rate": "AB",
+        "Balance": 6,
+        "Price": 93,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "ШПРИЦ 50,0 3хкомп N1",
+        "Rate": "AB",
+        "Balance": 2,
+        "Price": 0,
+        "ProductType": "Изделия медицинского назначения (ИМН)",
+        "ProductRxOTC": "TrG"
+    },
+    {
+        "Product": "КОРВАЛОЛ капли внутр. (фл.) 25мл N1",
+        "Rate": "AB",
+        "Balance": 77,
+        "Price": 25,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "КЕТОРОЛ р-р для в/в и в/м введ. (амп.) 30мг/мл - 1мл N10",
+        "Rate": "AB",
+        "Balance": 10,
+        "Price": 138,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "КО-ПЕРИНЕВА табл. 2.5мг+8мг N30",
+        "Rate": "BA",
+        "Balance": 3,
+        "Price": 623,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "Л-ТИРОКСИН Берлин-Хеми 75 табл. 75мкг N100",
+        "Rate": "AB",
+        "Balance": 4,
+        "Price": 131,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "КЛОТРИМАЗОЛ табл. ваг. 100мг N6",
+        "Rate": "AB",
+        "Balance": 6,
+        "Price": 28,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "АКТОВЕГИН р-р д/ин. (амп.) 40мг/мл - 10мл N5",
+        "Rate": "AB",
+        "Balance": 3,
+        "Price": 1166,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "ЦИТОФЛАВИН табл. кшр. п.о. N50",
+        "Rate": "AB",
+        "Balance": 2,
+        "Price": 447,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "ЦИТОФЛАВИН р-р для в/в введ. (амп.) 10мл N10",
+        "Rate": "BA",
+        "Balance": 1,
+        "Price": 0,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "ТЕРЖИНАН табл. ваг. N10",
+        "Rate": "AP",
+        "Balance": 3,
+        "Price": 561,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "ЦИННАРИЗИН табл. 25мг N56 /ОБН/",
+        "Rate": "AB",
+        "Balance": 8,
+        "Price": 98,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "АСКОРБИНОВАЯ КИСЛОТА С ГЛЮКОЗОЙ табл. (стрип) 100мг - 1г N10",
+        "Rate": "AB",
+        "Balance": 11,
+        "Price": 10,
+        "ProductType": "БАД",
+        "ProductRxOTC": "TrG"
+    },
+    {
+        "Product": "АЦЦ гран. д/р-ра внутр. (пак.) 200мг N20 Апельсин",
+        "Rate": "AB",
+        "Balance": 6,
+        "Price": 125,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "ПОВЯЗКА Космопор E послеопер. стер. 7.2х5см N1",
+        "Rate": "AB",
+        "Balance": 10,
+        "Price": 13,
+        "ProductType": "Изделия медицинского назначения (ИМН)",
+        "ProductRxOTC": "TrG"
+    },
+    {
+        "Product": "ПИПЕТКА глазная травмобезопасная в футляре N1",
+        "Rate": "AB",
+        "Balance": 101,
+        "Price": 17,
+        "ProductType": "Изделия медицинского назначения (ИМН)",
+        "ProductRxOTC": "TrG"
+    },
+    {
+        "Product": "РЕНГАЛИН р-р внутр. прим. 100мл N1",
+        "Rate": "AB",
+        "Balance": 2,
+        "Price": 280,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "ШПРИЦ 3,0 3хкомп N1",
+        "Rate": "AB",
+        "Balance": 105,
+        "Price": 9,
+        "ProductType": "Изделия медицинского назначения (ИМН)",
+        "ProductRxOTC": "TrG"
+    },
+    {
+        "Product": "МИЛДРОНАТ капс. 250мг N40",
+        "Rate": "BB",
+        "Balance": 2,
+        "Price": 273,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "БИСОПРОЛОЛ табл. п.п.о. 5мг N30 /АВКС/",
+        "Rate": "AB",
+        "Balance": 9,
+        "Price": 140,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "КАПИТАН СИЛЬВЕР батончик 50г кокос+вар. сгущенка, шок. глазурь",
+        "Rate": "AB",
+        "Balance": 2,
+        "Price": 36,
+        "ProductType": "Продукты лечебного и диетического питания",
+        "ProductRxOTC": "TrG"
+    },
+    {
+        "Product": "КОНКОР табл. п.п.о. 5мг N30",
+        "Rate": "AB",
+        "Balance": 7,
+        "Price": 218,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "ПУСТЫРНИКА настойка (фл.) 25мл N1",
+        "Rate": "AB",
+        "Balance": 8,
+        "Price": 19,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "АСКОРБИНОВАЯ КИСЛОТА драже (бан.) 50мг N200",
+        "Rate": "BC",
+        "Balance": 10,
+        "Price": 30.5,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "ГИДРОКОРТИЗОН мазь (туба) 1% - 15г N1",
+        "Rate": "AB",
+        "Balance": 1,
+        "Price": 52,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "СТРЕПТОЦИД пор. д/наружн. прим. (бан.) 5г N1",
+        "Rate": "AB",
+        "Balance": 6,
+        "Price": 58,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "ТЕНОРИК табл. п.п.о. 100мг+25мг N28",
+        "Rate": "AC",
+        "Balance": 2,
+        "Price": 163,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "САЛИЦИЛОВАЯ КИСЛОТА р-р спирт. (фл.) 2% - 40мл N1",
+        "Rate": "AB",
+        "Balance": 45,
+        "Price": 22.5,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "ДОЛОНИТ гель 30г N1",
+        "Rate": "BA",
+        "Balance": 3,
+        "Price": 319,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "ЗОКАРДИС табл. п.о. 7.5мг N28",
+        "Rate": "BB",
+        "Balance": 3,
+        "Price": 335,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "ПЛАСТЫРЬ МОЗОЛЬНЫЙ Верофарм Салипод 6х10см N1",
+        "Rate": "AB",
+        "Balance": 1,
+        "Price": 68,
+        "ProductType": "Изделия медицинского назначения (ИМН)",
+        "ProductRxOTC": "TrG"
+    },
+    {
+        "Product": "БЕТАЛОК ЗОК табл. замедл. высв. п.о. 50мг N30",
+        "Rate": "AB",
+        "Balance": 4,
+        "Price": 291,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "АЗИТРОМИЦИН табл. п.п.о. 500мг N3 /ВРС/",
+        "Rate": "PP",
+        "Balance": 1,
+        "Price": 213,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "ЦЕРЕБРОЛИЗИН р-р д/ин. (амп.) 5мл N5",
+        "Rate": "AB",
+        "Balance": 9,
+        "Price": 1043,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "СПАЗМАЛГОН табл. N20",
+        "Rate": "AB",
+        "Balance": 6,
+        "Price": 211,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "БЕТАДИН р-р д/местн. и наружн. прим. (фл.) 10% - 30мл N1",
+        "Rate": "BB",
+        "Balance": 3,
+        "Price": 185,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "ДЕРМОВЕЙТ крем 0.05% - 25г N1",
+        "Rate": "BA",
+        "Balance": 2,
+        "Price": 0,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    },
+    {
+        "Product": "МОЧЕПРИЕМНИК детский 0.1л N1",
+        "Rate": "AB",
+        "Balance": 7,
+        "Price": 15,
+        "ProductType": "Изделия медицинского назначения (ИМН)",
+        "ProductRxOTC": "TrG"
+    },
+    {
+        "Product": "ШПРИЦ 3хкомп 2мл N1 SFM",
+        "Rate": "PP",
+        "Balance": 30,
+        "Price": 8,
+        "ProductType": "Изделия медицинского назначения (ИМН)",
+        "ProductRxOTC": "TrG"
+    },
+    {
+        "Product": "ФОРЛАКС пор. д/р-ра внутр. (пак.) 4г N20",
+        "Rate": "BB",
+        "Balance": 3,
+        "Price": 250,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "OTC"
+    },
+    {
+        "Product": "АМИНОКАПРОНОВАЯ КИСЛОТА р-р д/инф. (фл.) 5% - 100мл N1",
+        "Rate": "BP",
+        "Balance": 5,
+        "Price": 75,
+        "ProductType": "Лекарственные средства",
+        "ProductRxOTC": "Rx"
+    }
+]
